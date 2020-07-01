@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1582738865 source:d:\c files\typing tutor\driver.cpp
+	<windows.h>
+	<fstream>
+	<time.h>
+	<string>
+	"Prerequisites.h"
+
+1582779403 source:d:\c files\typing tutor\llops.cpp
+	<stdlib.h>
+	"Prerequisites.h"
+
+1582656033 source:d:\c files\typing tutor\timer.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1582779457 d:\c files\typing tutor\prerequisites.h
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1582782297 source:d:\c files\typing tutor\d.cpp
+	<fstream>
+	<string>
+	"Prerequisites.h"
+
+1589214375 source:d:\shagun's\c files\typing tutor\llops.cpp
+	<stdlib.h>
+	"Prerequisites.h"
+
+1589212896 d:\shagun's\c files\typing tutor\prerequisites.h
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1585889866 source:d:\shagun's\c files\typing tutor\d.cpp
+	<fstream>
+	<string>
+	"Prerequisites.h"
+
+1589212946 source:d:\shagun's\c files\typing tutor\filecreator.cpp
+	<fstream>
+
+1589214258 source:d:\shagun's\c files\typing tutor\driver.cpp
+	<fstream>
+	<string>
+	"Prerequisites.h"
+
+1590056311 source:e:\c files\typing-tutor-master\driver.cpp
+	<fstream>
+	<string>
+	"Prerequisites.h"
+
+1590056311 e:\c files\typing-tutor-master\prerequisites.h
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1590056311 source:e:\c files\typing-tutor-master\filecreator.cpp
+	<fstream>
+
+1590056311 source:e:\c files\typing-tutor-master\llops.cpp
+	<stdlib.h>
+	"Prerequisites.h"
+
+1590255324 source:d:\projects\dsa\typing-tutor-master_2\typing-tutor-master\driver.cpp
+	<fstream>
+	<string>
+	"Prerequisites.h"
+
+1590255324 d:\projects\dsa\typing-tutor-master_2\typing-tutor-master\prerequisites.h
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1590255324 source:d:\projects\dsa\typing-tutor-master_2\typing-tutor-master\filecreator.cpp
+	<fstream>
+
+1590255324 source:d:\projects\dsa\typing-tutor-master_2\typing-tutor-master\llops.cpp
+	<stdlib.h>
+	"Prerequisites.h"
+
